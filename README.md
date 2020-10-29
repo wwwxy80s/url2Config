@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+将url文件转换为clashX可用的配置文件
 
 ## Available Scripts
 
